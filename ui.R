@@ -7,7 +7,7 @@ TrainSet <- TrainSet[,-1]
 pageWithSidebar(
 
   # Page header
-  headerPanel('Iris Predictor'),
+  headerPanel('Iris Predictor Test Test'),
 
   # Input values
   sidebarPanel(
